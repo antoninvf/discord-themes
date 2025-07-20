@@ -1,4 +1,4 @@
-@import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/spotify.css');
+@import url('https://antoninvf.github.io/discord-themes/Theme%20code/spotify.css');
 
 :root {
     --spotify-height: 206px;            /*default: 226px*/
@@ -8,8 +8,8 @@
 }
 
 .theme-light #vc-spotify-player {
-    background: var(--bg-overlay-3,var(--background-secondary-alt)) !important; 
+    background: var(--bg-overlay-3,var(--background-secondary-alt)) !important;
 }
 .theme-dark #vc-spotify-player {
-    background: var(--bg-overlay-1, var(--background-secondary-alt)) !important; 
+    background: var(--bg-overlay-1, var(--background-secondary-alt)) !important;
 }

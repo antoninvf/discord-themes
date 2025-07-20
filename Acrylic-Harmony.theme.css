@@ -4,10 +4,10 @@
  * @description Fully transparent acrylic Discord theme. Works with colors and highly customizable.
  * @version 0.9.4
  * @donate https://www.buymeacoffee.com/skyli
- * @source https://github.com/s-k-y-l-i/discord-themes
+ * @source https://github.com/antoninvf/discord-themes
  */
 
-@import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparency.css');
+@import url('https://antoninvf.github.io/discord-themes/Theme%20code/transparency.css');
 
 /* Config */
 :root{
@@ -21,8 +21,8 @@
     --var-opacity-right-sidebar: 0.39;
     --var-opacity-inner-messages: 0.33;
 
-    /* 
-    For example: 
+    /*
+    For example:
     0.1 --var-opacity-option with 99 --var-color-saturation
     0.4 --var-opacity-option with 2.8 --var-color-saturation
     0.6 --var-opacity-option with 1.8 --var-color-saturation        */

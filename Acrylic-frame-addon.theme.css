@@ -4,18 +4,18 @@
  * @description Transparent acrylic window frame including guilds with customizable opacity, saturation and contrast.
  * @version 1.0
  * @donate https://www.buymeacoffee.com/skyli
- * @source https://github.com/s-k-y-l-i/discord-themes
+ * @source https://github.com/antoninvf/discord-themes
  */
 
-@import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparent-frame.css');
+@import url('https://antoninvf.github.io/discord-themes/Theme%20code/transparent-frame.css');
 
 :root{
     --var-opacity-option: 0.8;    /*   Acrylic opacity from 0 to 1    */
     --var-color-saturation: 1;   /* 0 to 99 (default is 1)  */
     --var-contrast: 1.07;        /*     Increase for darker blacks   */
 
-    /* 
-    You can try: 
+    /*
+    You can try:
     0.1 opacity with 99 saturation
     0.4 opacity with 2.8 saturation
     0.6 opacity with 1.8 saturation            */
