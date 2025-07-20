@@ -352,7 +352,7 @@ border-radius: inherit;
     margin-bottom: 1px;
 }
 
-/*.theme-light .defaultColor__4bd52,*/ .theme-light .misc__71961, 
+/*.theme-light .defaultColor_b717a1,*/ .theme-light .misc__71961, 
 .theme-light>.userProfileInner_c69a7b .discriminator_afed89,
 .theme-light.userProfileModalOuter_c69a7b .additionalActionsIcon_ec3b75,
 .theme-light>.userProfileInner_c69a7b .text-sm-normal__95a78, 
@@ -360,7 +360,7 @@ border-radius: inherit;
 .theme-light .text-xs-normal__46d75[style*="color: var(--header-secondary)"] {
     color: rgba(0, 0, 0, 0.7)!important;
 }
-/*.theme-dark .defaultColor__4bd52,*/ .theme-dark .misc__71961, 
+/*.theme-dark .defaultColor_b717a1,*/ .theme-dark .misc__71961, 
 .theme-dark>.userProfileInner_c69a7b .discriminator_afed89,
 .theme-dark .userProfileModalOuter_c69a7b .additionalActionsIcon_ec3b75,
 .theme-dark>.userProfileInner_c69a7b .text-sm-normal__95a78,
